@@ -21,4 +21,5 @@ python main.py
 ## Сборка в .exe
 
 pip install pyinstaller
+
 pyinstaller fstec_analyzer.spec
