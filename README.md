@@ -15,6 +15,7 @@
 ## Быстрый старт
 
 pip install PyQt6 pandas matplotlib openpyxl
+
 python main.py
 
 ## Сборка в .exe
